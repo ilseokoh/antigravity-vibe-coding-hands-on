@@ -53,8 +53,11 @@ Agents 메뉴로 이동해서 New Agent 를 클릭합니다.
 
 에이전트의 이름과 설명을 입력합니다. 이름과 설명은 항상 중요합니다. 다른 에이전트가 이 에이전트를 호출하려면 어떤 에이전트인지 정확히 알아야 하기 때문입니다. 
 
- * Agent name: 매출분석 에이전트
+ * Agent name: 매출분석 에이전트 [구분자]
  * Agent description: 2021년 부터 2025년까지의 매출에 대한 분석을 위한 에이전트
+
+  > **Warning**
+ > Agent name은 다른 분들과 겹치지 않도록 사번 같은 구분자를 붙여주세요. 
 
 Knowledge sources 에서 "Add source"를 선택합니다. 
 
