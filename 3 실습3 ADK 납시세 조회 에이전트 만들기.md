@@ -9,6 +9,22 @@
 
 ![Agent diagram](./images/adk-agent-diagram.png)
 
+## 터미널에서 Google Cloud 로그인 
+
+Windows Terminal을 열어서 아래 2가지 명령을 **각각** 입력하여 Google Cloud에 로그인 합니다. 브라우저가 자동으로 열립니다. 
+
+```
+gcloud auth login
+```
+
+```
+gcloud auth application-default login
+```
+
+```
+gcloud config set project [Google Cloud 프로젝트 ID]
+```
+
 ## Antigravity 2.0 프로젝트 생성 
 
 Antigravity 2.0를 실행하고 Login 합니다. 아직 설치가 안되어 있다면 [0 사전준비](./0%20사전준비.md)의 내용을 보고 설치해주세요. 
