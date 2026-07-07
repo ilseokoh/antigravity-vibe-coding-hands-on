@@ -33,7 +33,7 @@ Agent를 배포해주세요.
 
 Google Cloud 콘솔에서 확인합니다. 
 
-![배포확인](deployment-confirm)
+![배포확인](./images/deployment-confirm.png)
 
 
 ### Gemini Enterprise에 연결 
